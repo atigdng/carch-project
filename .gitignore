@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+out/
+asm/
+
+# Object and executable files
+*.o
+*.out
+
+# Backup/editor files
+*~
+.vscode/
+__pycache__/
